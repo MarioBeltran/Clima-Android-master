@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meteo Clima</string>
+    <string name="default_location">Buscando Ubicacion</string>
+    <string name="default_temp">NA</string>
+    <string name="change_city_description">Aqui para cambiar ciudad</string>
+    <string name="get_weather">Cambiar ciudad</string>
+    <string name="default_query">Introduzca ciudad</string>
+</resources>
